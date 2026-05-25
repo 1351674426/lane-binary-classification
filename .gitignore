@@ -1,0 +1,40 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ===== 虚拟环境 =====
+venv/
+.venv/
+env/
+.conda/
+
+# ===== IDE / 编辑器 =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+*.ipynb
+
+# ===== 系统文件 =====
+.DS_Store
+Thumbs.db
+~$*.pptx
+~$*.docx
+~$*.xlsx
+
+# ===== TensorBoard =====
+outputs/runs/
+
+# ===== 本地配置 =====
+.env
+*.local

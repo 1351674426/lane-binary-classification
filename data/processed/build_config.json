@@ -1,0 +1,9 @@
+{
+  "roi_width": 640,
+  "roi_height": 360,
+  "check_y": 690,
+  "val_ratio": 0.1,
+  "test_ratio": 0.1,
+  "max_images": null,
+  "seed": 42
+}

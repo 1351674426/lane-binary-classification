@@ -1,0 +1,21 @@
+{
+  "accuracy": 0.915625,
+  "precision": 0.9452631578947368,
+  "recall": 0.9412997903563941,
+  "f1_score": 0.9432773109243697,
+  "confusion_matrix": [
+    [
+      137,
+      26
+    ],
+    [
+      28,
+      449
+    ]
+  ],
+  "total_samples": 640,
+  "true_negative": 137,
+  "false_positive": 26,
+  "false_negative": 28,
+  "true_positive": 449
+}
